@@ -1,0 +1,49 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/roshin/FIverr Works/honeyPot.sol/contracts/EverCash.sol": {
+      "lastModificationDate": 1644733863676,
+      "contentHash": "b8408d0c2e0b81409c2263f611e9d424",
+      "sourceName": "contracts/EverCash.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "EverCash",
+        "IERC20",
+        "IUniswapV2Factory",
+        "IUniswapV2Pair",
+        "IUniswapV2Router01",
+        "IUniswapV2Router02",
+        "Ownable",
+        "SafeMath"
+      ]
+    }
+  }
+}
